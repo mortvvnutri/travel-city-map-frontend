@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="edit.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6572"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.54362802"
+     inkscape:cx="94.733896"
+     inkscape:cy="443.31784"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6695" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6567" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7183"
+       transform="matrix(2.1201382,2.1201382,-2.1201382,2.1201382,311.89152,-629.42208)">
+      <path
+         style="fill:none;stroke:#020202;stroke-width:10.67261417;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="m 169.74371,144.70488 v 135.59986 l 25.8972,44.85528 25.69596,-44.5067 V 144.54229 l -26.14958,-7.00675 z"
+         id="path6765"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="fill:none;stroke:#020202;stroke-width:6.67038386;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="m 170.39407,159.82573 c 15.44603,11.86905 37.72082,10.89352 50.40282,0"
+         id="path7130"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#020202;stroke-width:6.67038386;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="m 170.39153,277.33197 c 15.44603,11.86905 37.72082,10.89351 50.40282,0"
+         id="path7130-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#020202;stroke-width:6.67038386;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="M 194.98627,168.84436 V 285.12143"
+         id="path7177"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>
